@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"SAMPLEASSET",
+    "asset_issuer_address":"1Fn2EJeoASDFASDFfSbw861",
+    "asset_owner_address":"1Fn2EJeoASDFASDFfSbw861",
+    "asset_supply":"100",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://url.to.your.image.on.imagur.com/big.png",
+    "image_large":"https://url.to.your.image.on.imagur.com/small.png",
+    "image_title":"RETROHAIR"
+}
