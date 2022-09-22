@@ -1,13 +1,14 @@
-
 {
     "success":true,
     "asset":"RETROHAIR.SUPERSHINE",
     "asset_issuer_address":"1Fn2EJeon5NQXR5YmGoAxDR9kENfSbw861",
     "asset_owner_address":"1Fn2EJeon5NQXR5YmGoAxDR9kENfSbw861",
-    "asset_supply":"100",
     "asset_divisible":false,
     "asset_locked":true,
-    "image":"TBD",
-    "image_large":"TBD",
+    "description":"<iframe id=\"game_drop\" align=\"top\" allowtransparency=\"true\" width=\"960\" height=\"640\" position=\"fixed\" margin-top=\"+40\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" msallowfullscreen=\"true\" scrolling=\"no\" src=\"https:\/\/stackoverflow.com\/questions\/8700636\/how-to-show-google-com-in-an-iframe\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; cross-origin-isolated\"><\/iframe>",
+    "website":"http:\/\/google.com",
+    "name":"RETROHAIR.SUPERSHINE",
+    "image":"",
+    "image_large":"",
     "image_title":"RETROHAIR.SUPERSHINE"
 }
