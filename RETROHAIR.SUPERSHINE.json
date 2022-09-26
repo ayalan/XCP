@@ -5,10 +5,10 @@
     "asset_owner_address":"1Fn2EJeon5NQXR5YmGoAxDR9kENfSbw861",
     "asset_divisible":false,
     "asset_locked":true,
-    "description":"<iframe align=\"top\" allowtransparency=\"true\" width=\"960\" height=\"640\" position=\"fixed\" margin-top=\"+40\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" msallowfullscreen=\"true\" scrolling=\"no\" src=\"https:\/\/retro.hair\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; cross-origin-isolated\"><\/iframe>",
+    "description":"<iframe align=\"top\" allowtransparency=\"true\" width=\"960\" height=\"640\" position=\"fixed\" margin-top=\"+40\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" msallowfullscreen=\"true\" scrolling=\"no\" src=\"https:\/\/retro.hair\/supershine.html\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; cross-origin-isolated\"><\/iframe>",
     "website":"https:\/\/retro.hair",
     "name":"RETROHAIR.SUPERSHINE",
-    "image":"",
-    "image_large":"",
+    "image":"https:\/\/github.com\/ayalan\/XCP\/raw\/main\/supershinetiny.png",
+    "image_large":"https:\/\/github.com\/ayalan\/XCP\/raw\/main\/supershine.p8.png",
     "image_title":"RETROHAIR.SUPERSHINE"
 }
